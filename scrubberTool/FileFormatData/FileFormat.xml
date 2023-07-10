@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ListItems>
+  <ListItem text="" value="" />
+  <ListItem text="max size" value="2,14,8,14,12,10,10,20,1" />
+  <ListItem text="Kotak" value="2,14,8,14,12,10,10,30,2" />
+  <ListItem text="Toyota" value="6,3,5,10,7" />
+  <ListItem text="max size" value="2,14,8,14,12,10,10,20,1" />
+  <ListItem text="aa" value="2,5,6,5,3" />
+  <ListItem text="aa" value="2,5,6,5,3" />
+  <ListItem text="aa" value="2,5,6,5,3" />
+  <ListItem text="ss" value="50" />
+  <ListItem text="sub" value="3,2,3" />
+</ListItems>
